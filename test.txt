@@ -1,4 +1,0 @@
-
-Hey this directory is a test
-I am trying to host this directory using github
-So far so good
