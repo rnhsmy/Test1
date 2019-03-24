@@ -1,1 +1,2 @@
 Hello world
+I added this with the terminal
