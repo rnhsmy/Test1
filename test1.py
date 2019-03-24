@@ -7,5 +7,5 @@ import random
 <<<<<<< HEAD
 print(random.randint(0,100))
 =======
-print(random.randint(0,101)) 
+print(random.randint(0,101))
 >>>>>>> test-branch
